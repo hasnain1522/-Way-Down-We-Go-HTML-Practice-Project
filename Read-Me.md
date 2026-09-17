@@ -2,7 +2,7 @@
 
 A simple **HTML-based lyrics webpage** created as one of my early projects after learning the fundamentals of HTML.
 
-This project was built a few months after I started learning HTML, as a way to practice and understand how different HTML elements work together to create a basic webpage.
+This project was built after I Commpleted learning HTML, as a way to practice and understand how different HTML elements work together to create a basic webpage.
 
 ## 📌 About the Project
 
